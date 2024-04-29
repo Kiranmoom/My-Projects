@@ -1,0 +1,10 @@
+TemperatureUnit=celsius
+WindSpeedUnit=kmh
+precipitationUnit=mm
+WindSpeedUnit=kmh
+timeFormat=24h
+pastDays=7
+forecastDays=7
+startDate=
+endDate=
+timeZone=UTC
